@@ -4,3 +4,5 @@ Model used-Yolov8
 
 Custom Dataset used
 
+you can also deploy it in Android Studio with best.tflite 
+
